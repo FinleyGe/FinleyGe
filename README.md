@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gloriaj22580486" target="blank"><img src="https://img.shields.io/twitter/follow/gloriaj22580486?logo=twitter&style=for-the-badge" alt="gloriaj22580486" /></a> </p>
 
-- 🔭 I’m currently working on [Join Us page](https://github.com/zjutjh/Join-Us)
+- 🔭 I’m currently working on [Join-Us](https://github.com/zjutjh/Join-Us)
 
 - 🌱 I’m currently learning **Golang, Flutter, Vue3, C++, ...**
 
-- 📝 I regularly write articles on [https://blog.f1nley.top/](https://blog.f1nley.top/)
+- 📝 I regularly write articles on [https://finleyge.github.io](https://finleyge.github.io)
 
 - 💬 Ask me about **Golang, Vue.**
 
