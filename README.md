@@ -3,25 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finleyge&label=Profile%20views&color=0e75b6&style=flat" alt="finleyge" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finleyge" alt="finleyge" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gloriaj22580486" target="blank"><img src="https://img.shields.io/twitter/follow/gloriaj22580486?logo=twitter&style=for-the-badge" alt="gloriaj22580486" /></a> </p>
-
-- 🔭 I’m currently working on [Join Us page](https://github.com/zjutjh/Join-Us)
+- 🔭 I’m currently working on [JingHong-Home](https://github.com/zjutjh/JingHong-Home)
 
 - 🌱 I’m currently learning **Golang, Flutter, Vue3, C++, ...**
 
-- 📝 I regularly write articles on [https://blog.f1nley.top/](https://blog.f1nley.top/)
-
-- 💬 Ask me about **Golang, Vue.**
+- 📝 I regularly write articles on [https://finleyge.github.io/](https://finleyge.github.io)
 
 - 📫 How to reach me **m13203533462@163.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gloriaj22580486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gloriaj22580486" height="30" width="40" /></a>
 <a href="https://fb.com/finley ge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="finley ge" height="30" width="40" /></a>
