@@ -38,7 +38,7 @@ Java          52 mins         █░░░░░░░░░░░░░░░�
 
 </p>
 
-<p>
+
 <h3 align="left">
 Latest Blog Posts:
 </h3>
@@ -49,7 +49,8 @@ Latest Blog Posts:
 - [vue+ts functional ref的类型问题](https://blog.f1nley.xyz/articles/%E7%BC%96%E7%A8%8B/vue+ts%20functional%20ref%E7%9A%84%E7%B1%BB%E5%9E%8B%E9%97%AE%E9%A2%98/)
 - [2022暑期授课-Go后端开发实战01](https://blog.f1nley.xyz/articles/%E7%BC%96%E7%A8%8B/2022%E6%9A%91%E6%9C%9F%E6%8E%88%E8%AF%BE-Go%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%9801/)
 <!-- BLOG-POST-LIST:END -->
-</p>
+
+
 <h3 align="left">Support:</h3>
 
 <p align="left">
