@@ -21,8 +21,9 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/finleyge"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/finleyge" /></a></p>
-
+<p><a href="https://www.buymeacoffee.com/finleyge"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/finleyge" /></a>
+</p>
+<p>
 <!--START_SECTION:waka-->
 
 ```text
@@ -35,3 +36,4 @@ Java          52 mins         █░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</p>
