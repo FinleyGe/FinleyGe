@@ -15,3 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.f1nley.xyz/rss2.xml"
+          template: "- [$title]($url)$newline"
