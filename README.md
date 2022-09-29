@@ -43,8 +43,7 @@ Java          52 mins         █░░░░░░░░░░░░░░░�
 Latest Blog Posts:
 </h3>
 
-<!-- BLOG-POST-LIST:START -->
-- [systemctl实用总结](https://blog.f1nley.xyz/articles/%E7%BC%96%E7%A8%8B/systemctl%E5%AE%9E%E7%94%A8%E6%80%BB%E7%BB%93/)
+<!-- BLOG-POST-LIST:START -->- [systemctl实用总结](https://blog.f1nley.xyz/articles/%E7%BC%96%E7%A8%8B/systemctl%E5%AE%9E%E7%94%A8%E6%80%BB%E7%BB%93/)
 - [「读书笔记」《爱的艺术》](https://blog.f1nley.xyz/articles/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E3%80%8C%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%8D%E7%88%B1%E7%9A%84%E8%89%BA%E6%9C%AF/)
 - [前端踩坑 &amp; 技巧&lpar;1&rpar;](https://blog.f1nley.xyz/articles/%E7%BC%96%E7%A8%8B/js%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0(1)/)
 - [vue+ts functional ref的类型问题](https://blog.f1nley.xyz/articles/%E7%BC%96%E7%A8%8B/vue+ts%20functional%20ref%E7%9A%84%E7%B1%BB%E5%9E%8B%E9%97%AE%E9%A2%98/)
