@@ -24,4 +24,14 @@
 <p><a href="https://www.buymeacoffee.com/finleyge"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/finleyge" /></a></p>
 
 <!--START_SECTION:waka-->
+
+```text
+C++           10 hrs 35 mins  ███████████▒░░░░░░░░░░░░░   45.96 %
+Go            3 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Markdown      1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+JSON          1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+tmux          1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Java          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+```
+
 <!--END_SECTION:waka-->
