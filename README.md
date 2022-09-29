@@ -22,7 +22,7 @@ who is fighting to become a full-stack developer.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
-<h3 align="left">Code Time:</h3>
+**Code Time:**
 
 <!--START_SECTION:waka-->
 
@@ -39,9 +39,7 @@ Java          52 mins         █░░░░░░░░░░░░░░░�
 </p>
 
 
-<h3 align="left">
-Latest Blog Posts:
-</h3>
+**Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->- [systemctl实用总结](https://blog.f1nley.xyz/articles/%E7%BC%96%E7%A8%8B/systemctl%E5%AE%9E%E7%94%A8%E6%80%BB%E7%BB%93/)
 - [「读书笔记」《爱的艺术》](https://blog.f1nley.xyz/articles/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E3%80%8C%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%8D%E7%88%B1%E7%9A%84%E8%89%BA%E6%9C%AF/)
