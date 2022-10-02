@@ -18,6 +18,8 @@ who is fighting to become a full-stack developer.
 
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finleyge&show_icons=true&locale=en&hide=javascript,html,tex" alt="finleyge" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finleyge&show_icons=true&locale=en" alt="finleyge" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
