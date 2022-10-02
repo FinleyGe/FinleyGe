@@ -22,7 +22,7 @@ who is fighting to become a full-stack developer.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
-**Code Time:**
+**Last 7 days I spend my time on:**
 
 <!--START_SECTION:waka-->
 
