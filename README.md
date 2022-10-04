@@ -55,10 +55,10 @@ Git           25 mins         ▓░░░░░░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [nginx常用配置](https://blog.f1nley.xyz/articles/%E8%BF%90%E7%BB%B4/nginx%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/)
 - [linux用户和权限](https://blog.f1nley.xyz/articles/linux/linux%E7%94%A8%E6%88%B7%E5%92%8C%E6%9D%83%E9%99%90/)
 - [systemctl实用总结](https://blog.f1nley.xyz/articles/%E7%BC%96%E7%A8%8B/systemctl%E5%AE%9E%E7%94%A8%E6%80%BB%E7%BB%93/)
 - [「读书笔记」《爱的艺术》](https://blog.f1nley.xyz/articles/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E3%80%8C%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%8D%E7%88%B1%E7%9A%84%E8%89%BA%E6%9C%AF/)
-- [前端踩坑 &amp; 技巧&lpar;1&rpar;](https://blog.f1nley.xyz/articles/%E7%BC%96%E7%A8%8B/js%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0(1)/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
