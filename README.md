@@ -39,12 +39,12 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-C++          6 hrs 34 mins   ███████████████▓░░░░░░░░░   62.14 %
-Java         1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-Markdown     54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-Vue.js       44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Go           25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+C++          6 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.51 %
+Vue.js       1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+TypeScript   1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Java         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Markdown     54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Vim Script   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
