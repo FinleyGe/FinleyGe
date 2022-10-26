@@ -55,10 +55,10 @@ Makefile   1 min           ░░░░░░░░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [obsidian简要教程](https://blog.f1nley.xyz/articles/obsidian/obsidian%E7%AE%80%E8%A6%81%E6%95%99%E7%A8%8B/)
-- [linux软链接和硬链接](https://blog.f1nley.xyz/articles/linux/linux%E8%BD%AF%E9%93%BE%E6%8E%A5%E5%92%8C%E7%A1%AC%E9%93%BE%E6%8E%A5/)
-- [nginx常用配置](https://blog.f1nley.xyz/articles/operation-maintenance/nginx%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/)
-- [linux用户和权限](https://blog.f1nley.xyz/articles/linux/linux%E7%94%A8%E6%88%B7%E5%92%8C%E6%9D%83%E9%99%90/)
+- [升级到 Ubuntu 22.10 后遇到的问题](https://blog.f1nley.xyz/Issues-after-updating-to-Ubuntu-22-10/)
+- [obsidian简要教程](https://blog.f1nley.xyz/obsidian/obsidian-simple-tutorial/)
+- [linux软链接和硬链接](https://blog.f1nley.xyz/linux/linux-soft-link-and-hard-link/)
+- [nginx常用配置](https://blog.f1nley.xyz/operation-maintenance/nginx-common-config/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
