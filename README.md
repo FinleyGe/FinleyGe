@@ -55,10 +55,10 @@ Vue.js       29 mins         █▒░░░░░░░░░░░░░░░
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 电源管理](https://blog.f1nley.xyz/linux/linux-power-manage/)
 - [升级到 Ubuntu 22.10 后遇到的问题](https://blog.f1nley.xyz/Issues-after-updating-to-Ubuntu-22-10/)
 - [obsidian简要教程](https://blog.f1nley.xyz/obsidian/obsidian-simple-tutorial/)
 - [linux软链接和硬链接](https://blog.f1nley.xyz/linux/linux-soft-link-and-hard-link/)
-- [nginx常用配置](https://blog.f1nley.xyz/operation-maintenance/nginx-common-config/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
