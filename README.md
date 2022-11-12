@@ -39,9 +39,11 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-tmux         1 hr 54 mins    ████████████▒░░░░░░░░░░░░   49.95 %
-C++          1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-Other        17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+tmux         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   48.88 %
+YAML         51 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+Bash         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+conf         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Other        17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
 ```
 
 <!--END_SECTION:waka-->
