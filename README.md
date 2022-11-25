@@ -39,12 +39,11 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-Java          3 hrs 44 mins   █████████▓░░░░░░░░░░░░░░░   38.24 %
-C++           3 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   32.42 %
-Go            1 hr 45 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
-Markdown      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-gitignore     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Other         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Java          7 hrs 46 mins   ████████████████▓░░░░░░░░   66.50 %
+C++           2 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   24.41 %
+Markdown      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+gitignore     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Other         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
