@@ -39,12 +39,12 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-Java         9 hrs 6 mins    ████████████████░░░░░░░░░   64.56 %
-TOML         1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-Markdown     1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Properties   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Bash         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Python       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Java         7 hrs 42 mins   █████████████░░░░░░░░░░░░   51.54 %
+Markdown     3 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   23.88 %
+TOML         1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+Properties   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Bash         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+C++          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
