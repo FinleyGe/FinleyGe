@@ -16,4 +16,4 @@ jobs:
         with:
           max_post_count: "4"
           remove_duplicates: true
-          feed_list: "https://blog.f1nley.xyz/rss2.xml"
+          feed_list: "https://blog.f1nley.xyz/index.xml"
