@@ -55,8 +55,8 @@ Text         25 mins         ▓░░░░░░░░░░░░░░░░
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [Text Process](https://blog.f1nley.xyz/post/linux/text-process/)
-- [Systemd](https://blog.f1nley.xyz/post/linux/systemd/)
+- [文本处理](https://blog.f1nley.xyz/post/linux/text-process/)
+- [Systemd常用教程](https://blog.f1nley.xyz/post/linux/systemd/)
 - [Linux 目录结构](https://blog.f1nley.xyz/post/linux/linux-directory/)
 - [精弘网络技术部-Linux基础知识-Linux测试试题讲解](https://blog.f1nley.xyz/post/linux/jh-linux-test/)
 <!-- BLOG-POST-LIST:END -->
