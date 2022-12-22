@@ -39,12 +39,11 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-Java         3 hrs 15 mins   █████████████▒░░░░░░░░░░░   53.36 %
-Vue.js       2 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   34.54 %
-Properties   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-XML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Java         4 hrs 59 mins   ████████████████████▒░░░░   81.24 %
+Properties   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+XML          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
