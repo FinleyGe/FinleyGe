@@ -39,12 +39,12 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-Java          5 hrs 21 mins   ████████████████▓░░░░░░░░   66.61 %
-Lua           1 hr 27 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-XML           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Objective-C   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Bash          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Vim Script    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Java          3 hrs 37 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
+C             2 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   23.35 %
+Lua           2 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
+Objective-C   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+C++           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Vim Script    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
