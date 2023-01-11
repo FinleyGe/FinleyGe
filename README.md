@@ -24,7 +24,7 @@ who is fighting to become a full-stack developer.
 
 - 📝 I regularly write articles on [https://blog.f1nley.xyz/](https://blog.f1nley.xyz)
 
-- 📫 How to reach me **m13203533462@163.com**
+- 📫 How to reach me **atlasgj@gmail.com**
 
 </p>
 
