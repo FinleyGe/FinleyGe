@@ -39,12 +39,9 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 36 mins   █████████████████▓░░░░░░░   70.29 %
-C++          36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Lua          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Makefile     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python     2 hrs 34 mins   █████████████████████████   99.61 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
