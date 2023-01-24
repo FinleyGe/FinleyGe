@@ -39,9 +39,8 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 19 mins   █████████████████████████   99.84 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Text   0 secs          ███████████████▒░░░░░░░░░   61.54 %
+Bash   0 secs          █████████▓░░░░░░░░░░░░░░░   38.46 %
 ```
 
 <!--END_SECTION:waka-->
