@@ -39,8 +39,7 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-Text   0 secs          ███████████████▒░░░░░░░░░   61.54 %
-Bash   0 secs          █████████▓░░░░░░░░░░░░░░░   38.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
