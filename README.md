@@ -39,7 +39,11 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++        1 hr 44 mins    ██████████████████░░░░░░░   72.01 %
+Makefile   32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+Lua        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Python     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
