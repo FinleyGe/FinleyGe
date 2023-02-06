@@ -39,12 +39,12 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 
 ```text
-C++           4 hrs 3 mins    █████████████░░░░░░░░░░░░   51.86 %
-TeX           2 hrs 34 mins   ████████▒░░░░░░░░░░░░░░░░   32.98 %
-Makefile      32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Python        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-JavaScript    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Other         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+C++           4 hrs 9 mins    ███████████▓░░░░░░░░░░░░░   46.62 %
+TeX           2 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.08 %
+Makefile      33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+JavaScript    27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+HTML          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Python        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
