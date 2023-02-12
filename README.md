@@ -48,6 +48,7 @@ JavaScript    27 mins         █▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+**Coding Time**
 <p>
        <img align="center" src="https://wakatime.com/share/@1f267603-cf28-47c9-a32c-2753500710e7/96d852e9-5832-42ff-acaa-a48a5371ba9d.svg" alt="finleyge" />
 </p>
