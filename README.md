@@ -134,10 +134,10 @@ Python                   2 repos             █░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [安装配置 OpenGauss&lpar;VirtualBox+OpenEuler&rpar;](https://blog.f1nley.xyz/post/linux/install_and_config_openGauss_Archlinux+VirtualBox/)
 - [文本处理](https://blog.f1nley.xyz/post/linux/text-process/)
 - [Systemd常用教程](https://blog.f1nley.xyz/post/linux/systemd/)
 - [Linux 目录结构](https://blog.f1nley.xyz/post/linux/linux-directory/)
-- [精弘网络技术部-Linux基础知识-Linux测试试题讲解](https://blog.f1nley.xyz/post/linux/jh-linux-test/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
