@@ -131,7 +131,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [安装配置 OpenGauss&lpar;VirtualBox+OpenEuler&rpar;](https://blog.f1nley.xyz/post/linux/install_and_config_openGauss_Archlinux+VirtualBox/)
+- [安装配置 OpenGauss 看这一篇就够了](https://blog.f1nley.xyz/post/linux/config_opengauss_full_edition/)
 - [文本处理](https://blog.f1nley.xyz/post/linux/text-process/)
 - [Systemd常用教程](https://blog.f1nley.xyz/post/linux/systemd/)
 - [Linux 目录结构](https://blog.f1nley.xyz/post/linux/linux-directory/)
