@@ -131,10 +131,10 @@ Lua                      1 repo              █░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Opengauss 3.1.1 版本安装、数据迁移解决方案 &lpar;通过docker&rpar;](https://blog.f1nley.xyz/post/linux/opengauss311/)
+- [计算机中数字的表示](https://blog.f1nley.xyz/post/ee/number_representation/)
 - [安装配置 OpenGauss 看这一篇就够了](https://blog.f1nley.xyz/post/linux/config_opengauss_full_edition/)
 - [文本处理](https://blog.f1nley.xyz/post/linux/text-process/)
-- [Systemd常用教程](https://blog.f1nley.xyz/post/linux/systemd/)
-- [Linux 目录结构](https://blog.f1nley.xyz/post/linux/linux-directory/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
