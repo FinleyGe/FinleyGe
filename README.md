@@ -37,15 +37,15 @@ who is fighting to become a full-stack developer.
 **Last 7 days I spend my time on:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-505.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 141.5 kB Used in GitHub's Storage 
+> 📦 141.6 kB Used in GitHub's Storage 
  > 
 > 🏆 77 Contributions in the Year 2023
  > 
@@ -82,17 +82,17 @@ Sunday                   135 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.58 % 
-Bash                     1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-C++                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-conf                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Vue.js                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Markdown                 6 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
+Bash                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Vue.js                   1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+C++                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+conf                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 1 min        █████████████████████████   100.00 % 
+Neovim                   14 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    14 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -108,7 +108,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2023 13:53:23 UTC
+ Last Updated on 05/04/2023 01:10:36 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
