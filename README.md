@@ -34,8 +34,6 @@ who is fighting to become a full-stack developer.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
-**Last 7 days I spend my time on:**
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2010%20mins-blue)
 
