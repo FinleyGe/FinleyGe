@@ -35,7 +35,7 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -43,7 +43,7 @@ who is fighting to become a full-stack developer.
 
 **🐱 My GitHub Data** 
 
-> 📦 142.2 kB Used in GitHub's Storage 
+> 📦 142.3 kB Used in GitHub's Storage 
  > 
 > 🏆 121 Contributions in the Year 2023
  > 
@@ -80,18 +80,18 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      7 hrs               ████████████████░░░░░░░░░   63.07 % 
-Python                   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Markdown                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Protocol Buffer          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Makefile                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+C++                      6 hrs 28 mins       ██████████████░░░░░░░░░░░   54.74 % 
+Python                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Dart                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Protocol Buffer          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 50 mins      ████████████████████████░   97.64 % 
-Obsidian                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Neovim                   11 hrs 24 mins      ████████████████████████░   96.60 % 
+Obsidian                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Linux                    11 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -107,7 +107,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2023 01:22:08 UTC
+ Last Updated on 05/05/2023 01:17:11 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
