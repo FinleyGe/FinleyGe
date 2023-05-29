@@ -119,10 +119,10 @@ Dart                     1 repo              █░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [TD-CMA下计算机组成实验：带中断的复杂模型机](https://blog.f1nley.xyz/post/ee/interrupt/)
 - [Typst 初使用体验](https://blog.f1nley.xyz/post/typst-first-use/)
 - [Bazel 简略介绍](https://blog.f1nley.xyz/post/bazel-basic-intro/)
 - [计算机组成原理：存储系统 - Cache](https://blog.f1nley.xyz/post/ee/cache/)
-- [Opengauss 3.1.1 版本安装、数据迁移解决方案 &lpar;通过docker&rpar;](https://blog.f1nley.xyz/post/linux/opengauss311/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
