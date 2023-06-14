@@ -35,9 +35,9 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-566.2%20thousand%20lines%20of%20code-blue)
 
@@ -80,18 +80,18 @@ Sunday                   142 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.04 % 
-Python                   3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+C++                      6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
+Python                   3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
 typst                    3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Markdown                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Markdown                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Neovim                   16 hrs 30 mins      ███████████████████████░░   90.60 % 
-Obsidian                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Neovim                   16 hrs 31 mins      ███████████████████████░░   90.61 % 
+Obsidian                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 
 💻 Operating System: 
-Linux                    18 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -107,7 +107,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2023 01:41:28 UTC
+ Last Updated on 14/06/2023 01:40:24 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
