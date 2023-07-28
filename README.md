@@ -120,10 +120,10 @@ Dart                     2 repos             █░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [gRPC系列：（1）Protobuf 简要介绍](https://blog.f1nley.xyz/post/grpc/protobuf/)
 - [线程、进程、协程](https://blog.f1nley.xyz/post/code/concurrency/)
 - [TLS SSL HTTPS SSH GPG 这些都是什么鬼？](https://blog.f1nley.xyz/post/web/tls-ssl-https-gpg/)
 - [TD-CMA下计算机组成实验：带中断的复杂模型机](https://blog.f1nley.xyz/post/ee/interrupt/)
-- [Typst 初使用体验](https://blog.f1nley.xyz/post/typst-first-use/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
