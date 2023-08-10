@@ -35,7 +35,7 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-797%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,11 +45,11 @@ who is fighting to become a full-stack developer.
 
 > 📦 168.7 kB Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2023
+> 🏆 208 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -80,17 +80,18 @@ Sunday                   182 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 20 mins             ███████████████░░░░░░░░░░   60.60 % 
-Rust                     9 mins              ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-Go                       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TypeScript               37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Vue.js                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Rust                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Go                       19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 
 🔥 Editors: 
-Neovim                   26 mins             ████████████████████░░░░░   79.47 % 
-Obsidian                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Neovim                   2 hrs 21 mins       ████████████████████████░   95.38 % 
+Obsidian                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +107,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2023 01:23:17 UTC
+ Last Updated on 10/08/2023 01:23:33 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
