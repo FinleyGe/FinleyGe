@@ -120,10 +120,10 @@ TypeScript               1 repo              █░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Typst 0.9.0 发布了，参考文献格式大更新](https://blog.f1nley.xyz/post/typst/typst-0.9.0-released/)
 - [2023 11月的 Neovim 最新配置](https://blog.f1nley.xyz/post/vim/2023-november-neovim-config/)
 - [写在离开德国前](https://blog.f1nley.xyz/post/before-leaving-germany/)
 - [TypeScript 中有关&quot;空&quot;的类型](https://blog.f1nley.xyz/post/web/ts-many-types-of-nothing/)
-- [PostgreSQL 和 MySQL 的关键区别（转，翻译）](https://blog.f1nley.xyz/post/pg-mysql-diff/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
