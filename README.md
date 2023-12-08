@@ -35,6 +35,8 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2025%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-688.4%20thousand%20lines%20of%20code-blue)
@@ -105,7 +107,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 01:16:38 UTC
+ Last Updated on 08/12/2023 01:17:26 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
