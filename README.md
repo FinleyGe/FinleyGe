@@ -120,10 +120,10 @@ TypeScript               1 repo              █░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么 Golang](https://blog.f1nley.xyz/post/code/golang/)
 - [在Linux环境下的汇编语言测试环境的搭建](https://blog.f1nley.xyz/post/assembly-env/)
 - [Typst 0.9.0 发布了，参考文献格式大更新](https://blog.f1nley.xyz/post/typst/typst-0.9.0-released/)
 - [2023 11月的 Neovim 最新配置](https://blog.f1nley.xyz/post/vim/2023-november-neovim-config/)
-- [写在离开德国前](https://blog.f1nley.xyz/post/before-leaving-germany/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
