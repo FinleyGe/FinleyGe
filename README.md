@@ -35,9 +35,9 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-829.6%20thousand%20lines%20of%20code-blue)
 
@@ -80,18 +80,18 @@ Sunday                   191 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   13 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
-Go                       8 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Markdown                 5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-C                        4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-TypeScript               3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Vue.js                   9 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Markdown                 7 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Go                       5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+C                        4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+TypeScript               2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-Neovim                   36 hrs 55 mins      ██████████████████████░░░   87.09 % 
-Obsidian                 5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Neovim                   29 hrs 20 mins      ████████████████████░░░░░   80.31 % 
+Obsidian                 7 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
 
 💻 Operating System: 
-Linux                    42 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    36 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -107,7 +107,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2024 01:17:37 UTC
+ Last Updated on 09/01/2024 01:17:25 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
