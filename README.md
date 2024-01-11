@@ -120,10 +120,10 @@ TypeScript               1 repo              █░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [计算机的定时和计数](https://blog.f1nley.xyz/post/ee/counter/)
 - [中断和8259A中断控制器](https://blog.f1nley.xyz/post/ee/8259a/)
 - [obsidian dartaview 插件的使用技巧](https://blog.f1nley.xyz/post/obsidian/dataview/)
 - [为什么 Golang](https://blog.f1nley.xyz/post/code/golang/)
-- [在Linux环境下的汇编语言测试环境的搭建](https://blog.f1nley.xyz/post/assembly-env/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
