@@ -121,10 +121,10 @@ TypeScript               1 repo              █░░░░░░░░░░�
 **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim 配置 Volar](https://blog.f1nley.xyz/post/vim/volar-config-in-2024/)
 - [在 N1 盒子 Armbian 上使用 docker 安装 openwrt 旁路网关](https://blog.f1nley.xyz/post/n1-armbian-docker-openwrt-bypass-route/)
 - [Hugo 数学公式支持](https://blog.f1nley.xyz/post/hugo-math-support/)
 - [山西中国联通光猫破解及桥接+IPTV设置](https://blog.f1nley.xyz/post/shanxi-china-unicom-optical-modem-crack-bridge-and-iptv/)
-- [编译原理（三）：语义分析](https://blog.f1nley.xyz/post/compile/semantic-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
