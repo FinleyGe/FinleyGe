@@ -35,7 +35,7 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,7 +107,7 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2024 01:20:00 UTC
+ Last Updated on 30/06/2024 01:27:26 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
