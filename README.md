@@ -18,13 +18,13 @@ who is fighting to become a full-stack developer.
 
 <p align="left">
 
-- 🌱 I’m currently learning **Golang, Vue3, C++, Java ...**
+- 🌱 I’m currently learning **React.js, Vue.js, TypeScript, Golang ...**
 
 - 🧠 I'm interested in coding, blogging, classical music, opera & Peking opera, history, ...
 
-- 📝 I regularly write articles on [https://blog.f1nley.xyz/](https://blog.f1nley.xyz)
+- 📝 I regularly write articles on [https://www.f1nley.xyz/blog](https://www.f1nley.xyz/blog)
 
-- 📫 How to reach me **atlasgj@gmail.com**
+- 📫 How to reach me **finleyge@qq.com**
 
 </p>
 
@@ -105,8 +105,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 ```
 
 
-
-
  Last Updated on 02/07/2024 01:21:49 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
@@ -116,15 +114,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 </p>
 
-
-**Latest Blog Posts:**
-
-<!-- BLOG-POST-LIST:START -->
-- [About Migrate | 关于博客的迁移](https://blog.f1nley.xyz/post/about-migrate/)
-- [Drag and Drop Does Not Work on Chrome in Wayland](https://blog.f1nley.xyz/post/web/drag-and-drop-doesnt-work-on-chrome-in-wayland/)
-- [Docker 网络模型](https://blog.f1nley.xyz/post/docker/docker-network/)
-- [Neovim 配置 Volar](https://blog.f1nley.xyz/post/vim/volar-config-in-2024/)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
 
