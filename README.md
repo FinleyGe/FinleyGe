@@ -80,13 +80,14 @@ Sunday                   255 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               10 mins             ██████████████████░░░░░░░   71.98 % 
+markdown.mdx             4 mins              ███████░░░░░░░░░░░░░░░░░░   28.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -102,7 +103,7 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2024 01:24:57 UTC
+ Last Updated on 17/07/2024 01:23:55 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
