@@ -35,7 +35,7 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C669%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C675%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,8 +44,6 @@ who is fighting to become a full-stack developer.
 **🐱 My GitHub Data** 
 
 > 📦 299.7 kB Used in GitHub's Storage 
- > 
-> 🏆 294 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -80,17 +78,17 @@ Sunday                   257 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               27 hrs 8 mins       ████████████████████░░░░░   79.48 % 
-Vue.js                   3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-markdown.mdx             1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Scheme                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+TypeScript               27 hrs 8 mins       ████████████████████░░░░░   79.97 % 
+Vue.js                   3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+markdown.mdx             1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Scheme                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-Neovim                   34 hrs 8 mins       █████████████████████████   100.00 % 
+Neovim                   33 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    34 hrs 8 mins       █████████████████████████   100.00 % 
+Linux                    33 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +104,7 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2024 01:22:40 UTC
+ Last Updated on 28/07/2024 01:35:48 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
