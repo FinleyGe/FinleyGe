@@ -35,7 +35,7 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C774%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C777%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,6 +44,8 @@ who is fighting to become a full-stack developer.
 **🐱 My GitHub Data** 
 
 > 📦 300.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 384 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -78,17 +80,17 @@ Sunday                   279 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               18 hrs 23 mins      ████████████████████████░   97.01 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript               18 hrs 32 mins      ████████████████████████░   96.65 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 Vue.js                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Lua                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 57 mins      █████████████████████████   100.00 % 
+Neovim                   19 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -104,7 +106,7 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2024 01:27:06 UTC
+ Last Updated on 28/08/2024 01:28:02 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
