@@ -35,7 +35,7 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -45,7 +45,7 @@ who is fighting to become a full-stack developer.
 
 > 📦 300.4 kB Used in GitHub's Storage 
  > 
-> 🏆 469 Contributions in the Year 2024
+> 🏆 472 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -80,17 +80,17 @@ Sunday                   289 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               17 hrs 55 mins      █████████████████████░░░░   84.87 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-kdl                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-JavaScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-xkb                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TypeScript               19 hrs 16 mins      ██████████████████████░░░   88.73 % 
+kdl                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+xkb                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Image (svg)              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-Neovim                   21 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   21 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    21 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    21 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +106,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2024 01:41:41 UTC
+ Last Updated on 28/09/2024 01:40:53 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
