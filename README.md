@@ -35,8 +35,6 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C927%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
@@ -45,7 +43,7 @@ who is fighting to become a full-stack developer.
 
 > 📦 301.6 kB Used in GitHub's Storage 
  > 
-> 🏆 518 Contributions in the Year 2024
+> 🏆 519 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -80,17 +78,17 @@ Sunday                   265 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               16 hrs 51 mins      ████████████████████████░   95.44 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Lua                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               15 hrs 36 mins      ████████████████████████░   95.37 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Lua                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 40 mins      █████████████████████████   100.00 % 
+Neovim                   16 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +104,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 01:44:28 UTC
+ Last Updated on 22/10/2024 01:43:34 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
