@@ -35,7 +35,7 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C946%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C951%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -106,7 +106,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2024 01:39:26 UTC
+ Last Updated on 27/10/2024 01:47:55 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
