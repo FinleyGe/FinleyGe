@@ -35,6 +35,8 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C997%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
@@ -78,17 +80,17 @@ Sunday                   266 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 58 mins      ███████████████████████░░   91.93 % 
-Docker                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-conf                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               13 hrs 58 mins      ███████████████████████░░   91.71 % 
+Docker                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+conf                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 Prisma                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 12 mins      █████████████████████████   100.00 % 
+Neovim                   15 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -104,7 +106,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 01:45:21 UTC
+ Last Updated on 11/11/2024 01:42:25 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
