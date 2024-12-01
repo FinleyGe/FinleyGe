@@ -35,8 +35,6 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C997%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
@@ -44,6 +42,8 @@ who is fighting to become a full-stack developer.
 **🐱 My GitHub Data** 
 
 > 📦 301.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 602 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -100,7 +100,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 01:46:03 UTC
+ Last Updated on 01/12/2024 02:04:35 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
