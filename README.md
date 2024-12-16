@@ -45,8 +45,6 @@ who is fighting to become a full-stack developer.
 
 > 📦 301.8 kB Used in GitHub's Storage 
  > 
-> 🏆 613 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 55 Public Repositories 
@@ -102,7 +100,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2024 01:57:45 UTC
+ Last Updated on 16/12/2024 01:54:44 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
