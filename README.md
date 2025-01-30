@@ -80,13 +80,13 @@ Sunday                   269 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -102,7 +102,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2025 01:39:37 UTC
+ Last Updated on 30/01/2025 01:38:11 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
