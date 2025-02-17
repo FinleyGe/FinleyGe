@@ -35,15 +35,15 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C073%20hrs%2046%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 302.2 kB Used in GitHub's Storage 
- > 
-> 🏆 40 Contributions in the Year 2025
+> 📦 302.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -78,17 +78,17 @@ Sunday                   270 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 41 mins      ████████████████████████░   94.72 % 
-Lua                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               14 hrs 34 mins      ███████████████████████░░   93.18 % 
+Lua                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 30 mins      █████████████████████████   100.00 % 
+Neovim                   15 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -104,7 +104,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2025 01:48:52 UTC
+ Last Updated on 17/02/2025 01:44:56 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
