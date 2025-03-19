@@ -35,42 +35,42 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C131%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C132%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 302.3 kB Used in GitHub's Storage 
  > 
-> 🏆 173 Contributions in the Year 2025
+> 🏆 182 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 58 Public Repositories 
+> 📜 59 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                484 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-🌆 Daytime                811 commits         █████████░░░░░░░░░░░░░░░░   34.53 % 
-🌃 Evening                887 commits         █████████░░░░░░░░░░░░░░░░   37.76 % 
-🌙 Night                  167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+🌞 Morning                510 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+🌆 Daytime                884 commits         █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌃 Evening                894 commits         █████████░░░░░░░░░░░░░░░░   36.40 % 
+🌙 Night                  168 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   351 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Tuesday                  443 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Wednesday                281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Thursday                 452 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Friday                   321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Saturday                 231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Sunday                   270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Monday                   367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Tuesday                  485 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Wednesday                299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Thursday                 453 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Friday                   346 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Saturday                 233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Sunday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 ```
 
 
@@ -102,7 +102,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2025 01:48:16 UTC
+ Last Updated on 19/03/2025 01:48:42 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
