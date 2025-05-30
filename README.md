@@ -45,6 +45,8 @@ who is fighting to become a full-stack developer.
 
 > 📦 303.4 kB Used in GitHub's Storage 
  > 
+> 🏆 323 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 59 Public Repositories 
@@ -78,13 +80,13 @@ Sunday                   258 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -100,7 +102,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2025 01:58:12 UTC
+ Last Updated on 30/05/2025 01:56:04 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
