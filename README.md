@@ -37,13 +37,15 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C237%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 302.1 kB Used in GitHub's Storage 
+> 📦 302.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 499 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -78,17 +80,17 @@ Sunday                   258 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 59 mins      ██████████████████████░░░   87.41 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Objective-C              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+TypeScript               12 hrs 48 mins      ██████████████████████░░░   87.28 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Objective-C              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-shell script             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+shell script             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Zed                      14 hrs 51 mins      █████████████████████████   100.00 % 
+Zed                      14 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -104,7 +106,7 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2025 02:23:56 UTC
+ Last Updated on 21/07/2025 02:21:23 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
