@@ -35,7 +35,7 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C245%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C247%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,8 +44,6 @@ who is fighting to become a full-stack developer.
 **🐱 My GitHub Data** 
 
 > 📦 301.9 kB Used in GitHub's Storage 
- > 
-> 🏆 508 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -80,17 +78,17 @@ Sunday                   254 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 4 mins       ████████████████████████░   97.16 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               12 hrs 13 mins      ████████████████████████░   96.87 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Zed                      14 hrs 28 mins      █████████████████████████   100.00 % 
+Zed                      12 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +104,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2025 02:08:57 UTC
+ Last Updated on 26/07/2025 02:05:37 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
