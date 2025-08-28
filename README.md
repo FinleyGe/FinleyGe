@@ -35,9 +35,9 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C318%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C318%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -45,7 +45,7 @@ who is fighting to become a full-stack developer.
 
 > 📦 301.9 kB Used in GitHub's Storage 
  > 
-> 🏆 568 Contributions in the Year 2025
+> 🏆 573 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -80,17 +80,17 @@ Sunday                   254 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               20 hrs 40 mins      ██████████████████████░░░   89.96 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-shell script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TypeScript               22 hrs 2 mins       ██████████████████████░░░   89.22 % 
+Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+shell script             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Zed                      22 hrs 58 mins      █████████████████████████   100.00 % 
+Zed                      24 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +106,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2025 01:52:32 UTC
+ Last Updated on 28/08/2025 01:51:32 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
