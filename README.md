@@ -35,8 +35,6 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%2046%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
@@ -44,6 +42,8 @@ who is fighting to become a full-stack developer.
 **🐱 My GitHub Data** 
 
 > 📦 301.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 576 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -78,17 +78,17 @@ Sunday                   254 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               17 hrs 40 mins      ██████████████████████░░░   88.19 % 
-Markdown                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-shell script             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TypeScript               19 hrs 2 mins       ███████████████████████░░   90.69 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+git ignore               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Zed                      20 hrs 2 mins       █████████████████████████   100.00 % 
+Zed                      20 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -104,7 +104,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 01:50:59 UTC
+ Last Updated on 30/08/2025 01:45:43 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
