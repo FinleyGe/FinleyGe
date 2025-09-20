@@ -35,8 +35,6 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C370%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
@@ -45,7 +43,7 @@ who is fighting to become a full-stack developer.
 
 > 📦 302.2 kB Used in GitHub's Storage 
  > 
-> 🏆 632 Contributions in the Year 2025
+> 🏆 635 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -66,7 +64,7 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 02:02:34 UTC
+ Last Updated on 20/09/2025 01:57:00 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
