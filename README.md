@@ -35,7 +35,7 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C463%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C470%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -45,7 +45,7 @@ who is fighting to become a full-stack developer.
 
 > 📦 302.3 kB Used in GitHub's Storage 
  > 
-> 🏆 800 Contributions in the Year 2025
+> 🏆 826 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -80,17 +80,17 @@ Sunday                   256 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               28 hrs 30 mins      █████████████████████░░░░   82.04 % 
-JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-shell script             1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+TypeScript               26 hrs 5 mins       ███████████████████░░░░░░   74.69 % 
+JSON                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+shell script             1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-Zed                      34 hrs 45 mins      █████████████████████████   100.00 % 
+Zed                      34 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      34 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +106,7 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2025 02:14:03 UTC
+ Last Updated on 31/10/2025 02:11:28 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
