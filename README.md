@@ -37,7 +37,7 @@ who is fighting to become a full-stack developer.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C530%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -80,17 +80,13 @@ Sunday                   256 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 49 mins       ████████████████░░░░░░░░░   64.84 % 
-HTML                     1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   35.09 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-shell script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      4 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +102,7 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2025 02:17:34 UTC
+ Last Updated on 05/12/2025 02:19:31 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
