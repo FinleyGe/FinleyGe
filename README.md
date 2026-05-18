@@ -35,8 +35,6 @@ who is fighting to become a full-stack developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finleyge&" alt="finleyge" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C541%20hrs%2034%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.27%20million%20lines%20of%20code-blue?style=flat)
@@ -53,42 +51,6 @@ who is fighting to become a full-stack developer.
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                319 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-🌆 Daytime                494 commits         ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-🌃 Evening                717 commits         ███████████░░░░░░░░░░░░░░   42.03 % 
-🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Tuesday                  309 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Wednesday                185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Thursday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Friday                   195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Saturday                 225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -102,7 +64,7 @@ Typst                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 04:31:31 UTC
+ Last Updated on 18/05/2026 04:42:21 UTC
 <!--END_SECTION:waka-->
 **Coding Time**
 <p>
